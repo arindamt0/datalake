@@ -1,0 +1,4 @@
+# packages.yml
+packages:
+  - package: fivetran/jira
+    version: [">=0.7.0", "<0.8.0"]
